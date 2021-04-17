@@ -1,0 +1,118 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16303 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+A:/TFS/TERM_02/VGP121 Game Test Debug/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51355
+Successfully changed project path to: A:/TFS/TERM_02/VGP121 Game Test Debug/New Unity Project
+A:/TFS/TERM_02/VGP121 Game Test Debug/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path A:/TFS/TERM_02/VGP121 Game Test Debug/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Vendor:   
+    VRAM:     11127 MB
+    Driver:   27.21.14.6109
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56484
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002054 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 28.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 28.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 1.721900 ms (FindLiveObjects: 0.145200 ms CreateObjectMapping: 0.062600 ms MarkObjects: 1.420200 ms  DeleteObjects: 0.093200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e0e235c0f4af3754229b664788db90') in 0.004240 seconds
+  Import took 0.006252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.457344 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(67a213f831e5b4244bbe8f6713dad464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(67a213f831e5b4244bbe8f6713dad464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf2aa39ec59f3dfe9de81478e0e6bade') in 0.002599 seconds
+  Import took 0.004839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.002174 seconds.
+  path: Assets/Sprites/Hitodama
+  artifactKey: Guid(f1c96da7db3e3fa4f8cd91fb4889e5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Hitodama using Guid(f1c96da7db3e3fa4f8cd91fb4889e5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369706a727b38cf56a7bfa2c910b3fa6') in 0.002589 seconds
+  Import took 0.004858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.078115 seconds.
+  path: Assets/Sprites/Corrupted Souls
+  artifactKey: Guid(7c039f5d003cf214d864a614efcc4a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Corrupted Souls using Guid(7c039f5d003cf214d864a614efcc4a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92d9a66735faa1972ea526ab5e9037f') in 0.002944 seconds
+  Import took 0.006385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.872419 seconds.
+  path: Assets/Sprites/Collectables
+  artifactKey: Guid(d38f3e31ee8b5734bac873920bdcfb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Collectables using Guid(d38f3e31ee8b5734bac873920bdcfb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ab69a12a00dbf7689dba6c339db855') in 0.002704 seconds
+  Import took 0.005022 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
